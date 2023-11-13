@@ -47,7 +47,7 @@ Looking ahead, I envision myself working as a software engineer. My goal is to c
 - <img src="image/media/twitter.svg" width="16" title="Twitter"> [Twitter](https://twitter.com/MysteriousTaway)
 
 ### Other information
-- Age: 19
+- Age: 20
 - Gender: Male
 - Birthday: 13.10. (DD.MM)
 - 16Personalities: ISTP-T
