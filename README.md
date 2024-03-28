@@ -41,7 +41,7 @@ Looking ahead, I envision myself working as a software engineer. My goal is to c
 
 ### Have I interested You? **Contact me!**
 - <img src="image/media/telegram.svg" width="16" title="Telegram"> [Telegram](https://t.me/tawaydev)
-- <img src="image/media/discord.svg" width="16" title="Discord"> taway
+- <img src="image/media/discord.svg" width="16" title="Discord"> [Discord](discordapp.com/users/319082278204735488)
 - <img src="image/media/twitter.svg" width="16" title="Twitter"> [Twitter](https://twitter.com/TawayVT)
 
 ### Other information
