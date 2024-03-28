@@ -6,14 +6,13 @@ Independence is a big part of who I am. Even though I'm just 20, I consider myse
 
 Looking ahead, I envision myself working as a software engineer. My goal is to contribute to fresh and innovative projects that stretch the boundaries of what's achievable. As I progress in my career, my aim is to reflect on my achievements with a sense of pride.
 ### <img src="image/emoji/construction.svg" width="32"> Project that I'm working on right now:
-- <img src="image/programming_language/html.svg" width="16"> [Taway.dev](https://github.com/MysteriousTaway/Taway.dev) - My personal website
-- <img src="image/programming_language/java.svg" width="16"> [Tutil](https://github.com/MysteriousTaway/Tutil) - A wrapper library for my other Java projects
+- <img src="image/programming_language/java.svg" width="16"> [Tutil](https://github.com/TawayDev/Tutil) - A wrapper library for my other Java projects
 #### :fire: List of projects You might be interested in:
-- <img src="image/programming_language/csharp.svg" width="16"> [GPTCSV](https://github.com/MysteriousTaway/GPTCSV) - CLI application that sends and receives data from GPT3
-- <img src="image/programming_language/csharp.svg" width="16"> [IPScanner](https://github.com/MysteriousTaway/IPScanner) - CLI application that can scan ip ranges
-- <img src="image/programming_language/csharp.svg" width="16"> [FreezeCheck_CLI](https://github.com/MysteriousTaway/FreezeCheck_CLI) - CLI application which checks if ToolWizTimeFreeze is running
-- <img src="image/programming_language/java.svg" width="16"> [MCL_Overseer](https://github.com/MysteriousTaway/MCL_Overseer) - SpigotMC plugin for managing players and logging their behavior on a Minecraft server
-- <img src="image/programming_language/java.svg" width="16"> [PotionWalker](https://github.com/MysteriousTaway/PotionWalker) - PaperMC plugin that adds different potion effects if a player is walking on different blocks
+- <img src="image/programming_language/csharp.svg" width="16"> [GPTCSV](https://github.com/TawayDev/GPTCSV) - CLI application that sends and receives data from GPT3
+- <img src="image/programming_language/csharp.svg" width="16"> [IPScanner](https://github.com/TawayDev/IPScanner) - CLI application that can scan ip ranges
+- <img src="image/programming_language/csharp.svg" width="16"> [FreezeCheck_CLI](https://github.com/TawayDev/FreezeCheck_CLI) - CLI application which checks if ToolWizTimeFreeze is running
+- <img src="image/programming_language/java.svg" width="16"> [MCL_Overseer](https://github.com/TawayDev/MCL_Overseer) - SpigotMC plugin for managing players and logging their behavior on a Minecraft server
+- <img src="image/programming_language/java.svg" width="16"> [PotionWalker](https://github.com/TawayDev/PotionWalker) - PaperMC plugin that adds different potion effects if a player is walking on different blocks
 > **NOTE:** Most of my interesting projects are private on Github.
 
 ### My favorite programming languages:
@@ -41,10 +40,9 @@ Looking ahead, I envision myself working as a software engineer. My goal is to c
 </table>
 
 ### Have I interested You? **Contact me!**
-- <img src="image/media/telegram.svg" width="16" title="Telegram"> [Telegram](https://t.me/mysterioustaway)
+- <img src="image/media/telegram.svg" width="16" title="Telegram"> [Telegram](https://t.me/tawaydev)
 - <img src="image/media/discord.svg" width="16" title="Discord"> taway
-- <img src="image/media/instagram.svg" width="16" title="Instagram"> [Instagram](https://www.instagram.com/mysterioustaway/)
-- <img src="image/media/twitter.svg" width="16" title="Twitter"> [Twitter](https://twitter.com/MysteriousTaway)
+- <img src="image/media/twitter.svg" width="16" title="Twitter"> [Twitter](https://twitter.com/TawayVT)
 
 ### Other information
 - Age: 20
@@ -52,7 +50,7 @@ Looking ahead, I envision myself working as a software engineer. My goal is to c
 - Birthday: 13.10. (DD.MM)
 - 16Personalities: ISTP-T
 - Favorite Color: <font style="color:#d9303b;"> #d9303b </font>
-- Hobbies: Programming, Gaming & Cooking.
+- Hobbies: Programming, Gaming & Streaming.
 
 ### Computer specs:
 - <img src="image/specs/amd.svg" width="24" title="AMD"> CPU: AMD Ryzen 7 5700x  
