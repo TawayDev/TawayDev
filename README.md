@@ -2,9 +2,6 @@
 # <img src="image/emoji/about.svg" width="28"> About me
 I'm a typical teenager in many ways. Currently, I'm studying Computer Science at a university, and I'm really passionate about learning new programming languages and coding principles – Java and C# are my top choices right now. During my free time, I enjoy creating fun programs that might not serve a real purpose, but they help me learn more about coding.
 
-Independence is a big part of who I am. Even though I'm just 20, I consider myself quite mature and capable of taking care of myself. I have a clear sense of my goals in life. I don't shy away from pursuing what I want, and I always ensure I receive what I've earned.
-
-Looking ahead, I envision myself working as a software engineer. My goal is to contribute to fresh and innovative projects that stretch the boundaries of what's achievable. As I progress in my career, my aim is to reflect on my achievements with a sense of pride.
 ### <img src="image/emoji/construction.svg" width="32"> Project that I'm working on right now:
 - <img src="image/programming_language/java.svg" width="16"> [Tutil](https://github.com/TawayDev/Tutil) - A wrapper library for my other Java projects
 #### :fire: List of projects You might be interested in:
