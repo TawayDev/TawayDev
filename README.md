@@ -45,7 +45,7 @@ Looking ahead, I envision myself working as a software engineer. My goal is to c
 - <img src="image/media/twitter.svg" width="16" title="Twitter"> [Twitter](https://twitter.com/TawayVT)
 
 ### Other information
-- Age: 20
+- Age: 21
 - Gender: Male
 - 16Personalities: ISTP-T
 - Favorite Color: <font style="color:#d9303b;"> #d9303b </font>
