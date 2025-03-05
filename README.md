@@ -1,7 +1,4 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P7MQCGJ)
-# <img src="image/emoji/about.svg" width="28"> About me
-I'm a typical teenager in many ways. Currently, I'm really passionate about learning new programming languages and coding principles – Java and C# are my top choices right now. During my free time, I enjoy creating fun programs that might not serve a real purpose, but they help me learn more about coding.
-
 ### <img src="image/emoji/construction.svg" width="32"> Project that I'm working on right now:
 - <img src="image/programming_language/java.svg" width="16"> [Catnip](https://github.com/TawayDev/Catnip) - Spring Boot multi-purpose API for Twitch bots
 #### :fire: List of projects You might be interested in:
